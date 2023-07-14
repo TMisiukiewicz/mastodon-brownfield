@@ -2,3 +2,7 @@
 	path = ios
 	url = git@github.com:TMisiukiewicz/mastodon-ios.git
 	branch = brownfield-integration
+[submodule "android"]
+	path = android
+	url = git@github.com:TMisiukiewicz/mastodon-android.git
+	branch = brownfield-integration
