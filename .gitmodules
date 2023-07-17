@@ -4,5 +4,5 @@
 	branch = brownfield-integration
 [submodule "android"]
 	path = android
-	url = git@github.com:TMisiukiewicz/mastodon-android.git
+	url = https://github.com/TMisiukiewicz/mastodon-android
 	branch = brownfield-integration
