@@ -5,4 +5,4 @@
 [submodule "android"]
 	path = android
 	url = https://github.com/TMisiukiewicz/mastodon-android
-	branch = brownfield-integration
+	branch = v-0.76
