@@ -11,8 +11,6 @@
   },
   "devDependencies": {
     "@react-native-community/cli": "15.0.0-alpha.2",
-    "@react-native-community/cli-platform-android": "15.0.0-alpha.2",
-    "@react-native-community/cli-platform-ios": "15.0.0-alpha.2",
     "@react-native/metro-config": "0.76.0-rc.2"
   }
 }
